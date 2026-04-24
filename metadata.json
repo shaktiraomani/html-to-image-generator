@@ -1,0 +1,6 @@
+{
+  "name": "HTML to Image Converter",
+  "description": "Convert HTML and CSS code directly into a downloadable image. No backend required, everything runs locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
